@@ -1,4 +1,4 @@
-# Лабораторная работа по курсу БД ![Deadline](https://img.shields.io/date/1618444799) ![Progress](https://progress-bar.dev/100/)
+# Лабораторная работа по курсу БД
 
 Автор **[@Никита Мушка](https://github.com/mushka-n)**, **[@Станислав Стоянов](https://github.com/ssstoyanov)**
 
